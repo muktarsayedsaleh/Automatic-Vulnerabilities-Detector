@@ -1,0 +1,5 @@
+E:\AVD_Tests\XSS1\Xss\bin\Xss.dll
+E:\AVD_Tests\XSS1\Xss\bin\Xss.pdb
+E:\AVD_Tests\XSS1\Xss\obj\Debug\ResolveAssemblyReference.cache
+E:\AVD_Tests\XSS1\Xss\obj\Debug\Xss.dll
+E:\AVD_Tests\XSS1\Xss\obj\Debug\Xss.pdb
